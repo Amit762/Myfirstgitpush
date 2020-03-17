@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="TestNg Automation Suite" >
+  <test name="Different TestNg Feature Name">
+    <classes>
+      <class name="com.test.AssertionValidation"/>
+      <class name="com.test.GoogleTest"/>
+      <class name="com.test.TestNgBasic"/>
+    </classes>
+  </test>
+</suite>
